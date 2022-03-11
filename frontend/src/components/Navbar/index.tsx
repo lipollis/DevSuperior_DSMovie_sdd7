@@ -1,6 +1,6 @@
-import { ReactComponent as GithubIcon } from '../../assets/img/github.svg';
+import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import './index.css';
+import './styles.css';
 
 function Navbar() {
     return (
