@@ -14,19 +14,20 @@ public class MovieService {
 
     // COMPOSIÇÃO
     @Autowired
-    private MovieRepository repository;
+    private MovieRepository movieRepository;
 
-    // MÉTODO
+    // MÉTODO PARA BUSCAR TODOS OS FILMES
     @Transactional(readOnly = true)
     public Page<MovieDTO> findAll(Pageable pageable){
-        Page<Movie> result = repository.findAll(pageable);
+        Page<Movie> result = movieRepository.findAll(pageable);
         Page<MovieDTO> page = result.map(x -> new MovieDTO(x));
         return page;
     }
 
+    // MÉTODO PARA BUSCAR FILMES POR ID
     @Transactional(readOnly = true)
     public MovieDTO findById(Long id){
-        Movie result = repository.findById(id).get();
+        Movie result = movieRepository.findById(id).get();
         MovieDTO dto = new MovieDTO(result);
         return dto;
     }
