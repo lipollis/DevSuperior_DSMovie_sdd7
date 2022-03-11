@@ -1,4 +1,6 @@
-import { ReactComponent as GithubIcon } from '../../assets/img/social-github.svg';
+// import { ReactComponent as GithubIcon } from '../../assets/img/social-github.svg';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import './index.css';
 
 function Navbar() {
     return (
@@ -8,7 +10,7 @@ function Navbar() {
                     <h1>DSMovie</h1>
                     <a href="https://github.com/lipollis" target="_blank" rel="noopener" >
                         <div className="dsmovie-contact-container">
-                            <GithubIcon />
+                            {/* <GithubIcon /> */}
                             <p className="dsmovie-contact-link">/lipollis</p>
                         </div>
                     </a>

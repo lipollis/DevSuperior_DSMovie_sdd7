@@ -1,3 +1,4 @@
+
 header {
     height: 60px;
     background-color: var(--color-primary);
@@ -27,3 +28,8 @@ header {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
+
+/* // Tamanho da imagem svg Github ./assets/img
+svg#svg{
+    width: 30px;
+} */
