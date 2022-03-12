@@ -1,0 +1,13 @@
+Heroku git: https://git.heroku.com/devsuperior-dsmovie-sdd7.git
+
+postgres://
+
+User= gkftrhgehnfcnp
+:
+Senha= e0bfbd82c65fcefde73dcb35006aafedcde8db3f362cf241717a72d18d543794
+@
+Host= ec2-44-192-245-97.compute-1.amazonaws.com
+:
+5432
+/
+Database= dakdnbpofrifds
