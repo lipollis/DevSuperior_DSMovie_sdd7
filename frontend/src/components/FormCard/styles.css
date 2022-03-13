@@ -4,6 +4,10 @@
     padding: 20px;
 }
 
+div.dsmovie-form-container{
+    height: 100vh;
+}
+
 .dsmovie-form {
     width: calc(100% - 20px);
 }
