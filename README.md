@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<h2 align=""> ONLINE PROJECT AVAILABLE: </h2>
+<h2 align=""> LINK - ONLINE PROJECT AVAILABLE: </h2>
   <div align="center"><a href="https://devsuperior-dsmovie-sdd7.herokuapp.com/" target="_blank" align-items-center> 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> </img></a></div>
   <div align="center"><a href="https://dsmovie-sdd7.netlify.app/" target="_blank" align-items-center>
