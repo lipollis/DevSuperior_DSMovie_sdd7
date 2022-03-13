@@ -10,7 +10,7 @@ function Navbar() {
                     <div className="dsmovie-nav-content">
                         <h1>DSMovie</h1>
                         <FcFilmReel className='film'/>
-                        <a href="https://github.com/lipollis" rel="noopener" >
+                        <a href="https://github.com/lipollis/DevSuperior_DSMovie_sdd7" rel="noopener" >
                             <div className="dsmovie-contact-container">
                                 <GithubIcon />
                                 <p className="dsmovie-contact-link">/lipollis</p>
