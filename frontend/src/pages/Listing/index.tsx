@@ -4,6 +4,7 @@ import { BASE_URL } from "utils/requests";
 import MovieCard from "../../components/MovieCard";
 import Pagination from "../../components/Pagination";
 import { MoviePage } from "types/movie";
+import './styles.css';
 
 function Listing() {
 

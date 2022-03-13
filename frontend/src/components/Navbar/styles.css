@@ -1,9 +1,10 @@
 
 header {
-    height: 60px;
+    height: 80px;
     background-color: var(--color-primary);
     display: flex;
     align-items: center;
+    
 }
 
 .dsmovie-nav-content {
@@ -33,3 +34,9 @@ header {
 svg#svg{
     width: 30px;
 } */
+
+.caixa{
+    width: 100vw;
+    height: 20px;
+    background-color: black;
+}

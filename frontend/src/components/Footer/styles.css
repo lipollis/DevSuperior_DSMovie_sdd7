@@ -1,0 +1,35 @@
+.footer{
+    width: 100%;
+    margin-top: 80px;
+    position: relative;
+    align-items: baseline;
+}
+.caixa{
+    width: 100vw;
+    height: 20px;
+    background-color: black;
+    border: 0;
+}
+
+div.container-footer{
+    height: 100px;
+    background-color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.rede-social{
+    font-size: 36px;
+    padding: 4px;
+}
+.rede-social:hover{
+    transform: scale(1.2);
+    color:aliceblue;
+}
+
+.rodape{
+    margin-top: 10px;
+    text-align: center;
+}

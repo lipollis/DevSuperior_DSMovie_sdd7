@@ -1,9 +1,10 @@
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import './styles.css';
 
 function Navbar() {
     return (
+        <>
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
@@ -17,6 +18,9 @@ function Navbar() {
                 </div>
             </nav>
         </header>
+        <div className='caixa'></div>
+        </>
+        
     );
 }
 
