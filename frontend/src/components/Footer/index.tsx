@@ -8,7 +8,6 @@ import {
     FaLinkedinIn,
     FaRegEnvelope
 } from 'react-icons/fa'; //yarn add react-icons
-import { GiFilmSpool } from "react-icons/gi";
 import sun from '../../assets/img/sun.png';
 
 const Footer = () => {
