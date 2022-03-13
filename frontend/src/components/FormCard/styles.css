@@ -24,6 +24,7 @@ div.dsmovie-form-container{
 .dsmovie-form-btn-container {
     display: flex;
     justify-content: center;
+    
 }
 
 .dsmovie-movie-card-image {
@@ -58,4 +59,5 @@ div.dsmovie-form-container{
     display: flex;
     align-items: center;
     justify-content: center;
+    border: none;
 }
