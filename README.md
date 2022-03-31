@@ -28,6 +28,7 @@
 <div align="center">:sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:</div>
 <br>
 <br>
+
 ## Objetivos do projeto para esta aula
 - Criar projetos backend e frontend
 - Salvar os projeto no Github em monorepo
