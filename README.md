@@ -29,6 +29,9 @@
 <br>
 <br>
 
+<img src="frontend/src/assets/img/DS Movie - imagem.png" align="center"> </img>
+
+
 ## Objetivos do projeto para esta aula
 - Criar projetos backend e frontend
 - Salvar os projeto no Github em monorepo
